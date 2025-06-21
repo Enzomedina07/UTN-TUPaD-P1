@@ -1,9 +1,3 @@
-# =================================================================
-# TRABAJO PRÁCTICO 5: LISTAS
-# Alumno: [Tu Nombre]
-# Comisión: [Tu Comisión]
-# =================================================================
-
 print("--- Ejercicio 1: Múltiplos de 4 ---")
 # Crear la lista de múltiplos de 4 del 1 al 100.
 multiplos_cuatro = list(range(4, 101, 4))
